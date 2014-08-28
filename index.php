@@ -22,7 +22,7 @@
 			<h1><?php echo $page['header'];  ?></h1>
 		
 		<?php echo $page['body_formatted']; ?>
-		</div>dsgff
+		</div>
 		<?php include (D_TEMPLATE.'/footer.php'); ?>
 	</body>
 
